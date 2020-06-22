@@ -1,0 +1,48 @@
+Last login: Mon Jun 22 09:40:08 on ttys000
+wendingding:~ wendingding$ cd /Users/文顶顶/Desktop/test 
+wendingding:test wendingding$ pwd
+/Users/文顶顶/Desktop/test
+wendingding:test wendingding$ vim b.txt 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+我是王宝强
+我是马蓉
+11111111111
+22222222222
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
